@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\WallStreet\WallStreet\bin\WallStreet.dll.config
+d:\documents\visual studio 2015\Projects\WallStreet\WallStreet\bin\WallStreet.dll
+d:\documents\visual studio 2015\Projects\WallStreet\WallStreet\bin\WallStreet.pdb
+d:\documents\visual studio 2015\Projects\WallStreet\WallStreet\obj\Debug\WallStreet.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\WallStreet\WallStreet\obj\Debug\WallStreet.dll
+d:\documents\visual studio 2015\Projects\WallStreet\WallStreet\obj\Debug\WallStreet.pdb
